@@ -1,0 +1,2208 @@
+{
+  "clips": [
+    {
+      "clip_id": "clip_0000",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_071852.mp4",
+      "duration": 9.125,
+      "fps": 30.027,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "van driving on highway",
+        "recovery team in field",
+        "ignition and fire",
+        "rocket assembly",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.231,
+        "ignition and fire": 0.2413,
+        "smoke and liftoff": 0.2299,
+        "rocket ascending into sky": 0.223,
+        "soldering in lab": 0.1924,
+        "electronics and circuit boards": 0.2143,
+        "team working in workshop": 0.2084,
+        "team celebrating outdoors": 0.2213,
+        "smiling faces and crowd": 0.2117,
+        "parachute descent": 0.2175,
+        "blue sky rocket tracking": 0.2187,
+        "van driving on highway": 0.2595,
+        "rocket assembly": 0.2408,
+        "countdown display": 0.2291,
+        "recovery team in field": 0.2586
+      },
+      "aesthetic_score": 6.17,
+      "motion_score": 5.44,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0001",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_075238.mp4",
+      "duration": 15.643,
+      "fps": 29.214,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "van driving on highway",
+        "rocket on launch rail",
+        "smoke and liftoff",
+        "rocket ascending into sky",
+        "countdown display"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2622,
+        "ignition and fire": 0.246,
+        "smoke and liftoff": 0.2591,
+        "rocket ascending into sky": 0.2541,
+        "soldering in lab": 0.2037,
+        "electronics and circuit boards": 0.2238,
+        "team working in workshop": 0.1986,
+        "team celebrating outdoors": 0.2383,
+        "smiling faces and crowd": 0.212,
+        "parachute descent": 0.2479,
+        "blue sky rocket tracking": 0.2458,
+        "van driving on highway": 0.289,
+        "rocket assembly": 0.2318,
+        "countdown display": 0.2533,
+        "recovery team in field": 0.2411
+      },
+      "aesthetic_score": 6.15,
+      "motion_score": 3.95,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0002",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_080548.mp4",
+      "duration": 8.538,
+      "fps": 22.956,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "van driving on highway",
+        "recovery team in field",
+        "parachute descent",
+        "rocket on launch rail",
+        "ignition and fire"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2226,
+        "ignition and fire": 0.2202,
+        "smoke and liftoff": 0.2195,
+        "rocket ascending into sky": 0.2095,
+        "soldering in lab": 0.1815,
+        "electronics and circuit boards": 0.1881,
+        "team working in workshop": 0.2019,
+        "team celebrating outdoors": 0.2085,
+        "smiling faces and crowd": 0.2012,
+        "parachute descent": 0.2235,
+        "blue sky rocket tracking": 0.2154,
+        "van driving on highway": 0.2677,
+        "rocket assembly": 0.2136,
+        "countdown display": 0.2061,
+        "recovery team in field": 0.2421
+      },
+      "aesthetic_score": 6.03,
+      "motion_score": 5.39,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0003",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_084455.mp4",
+      "duration": 75.998,
+      "fps": 30.001,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "smoke and liftoff",
+        "rocket on launch rail",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2701,
+        "ignition and fire": 0.2385,
+        "smoke and liftoff": 0.2748,
+        "rocket ascending into sky": 0.2809,
+        "soldering in lab": 0.1955,
+        "electronics and circuit boards": 0.2011,
+        "team working in workshop": 0.2048,
+        "team celebrating outdoors": 0.2254,
+        "smiling faces and crowd": 0.2028,
+        "parachute descent": 0.2683,
+        "blue sky rocket tracking": 0.2947,
+        "van driving on highway": 0.2068,
+        "rocket assembly": 0.2583,
+        "countdown display": 0.2301,
+        "recovery team in field": 0.2429
+      },
+      "aesthetic_score": 6.21,
+      "motion_score": 1.94,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0004",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_085514.mp4",
+      "duration": 59.433,
+      "fps": 30.0,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "smoke and liftoff",
+        "parachute descent",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2573,
+        "ignition and fire": 0.2429,
+        "smoke and liftoff": 0.268,
+        "rocket ascending into sky": 0.2821,
+        "soldering in lab": 0.211,
+        "electronics and circuit boards": 0.2128,
+        "team working in workshop": 0.2037,
+        "team celebrating outdoors": 0.2105,
+        "smiling faces and crowd": 0.2053,
+        "parachute descent": 0.2626,
+        "blue sky rocket tracking": 0.2962,
+        "van driving on highway": 0.2079,
+        "rocket assembly": 0.2417,
+        "countdown display": 0.2297,
+        "recovery team in field": 0.2337
+      },
+      "aesthetic_score": 6.14,
+      "motion_score": 1.0,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0005",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_090316.mp4",
+      "duration": 231.769,
+      "fps": 29.939,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "smoke and liftoff",
+        "rocket on launch rail",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2779,
+        "ignition and fire": 0.2436,
+        "smoke and liftoff": 0.2821,
+        "rocket ascending into sky": 0.293,
+        "soldering in lab": 0.2094,
+        "electronics and circuit boards": 0.2065,
+        "team working in workshop": 0.2158,
+        "team celebrating outdoors": 0.2403,
+        "smiling faces and crowd": 0.2158,
+        "parachute descent": 0.2768,
+        "blue sky rocket tracking": 0.3089,
+        "van driving on highway": 0.251,
+        "rocket assembly": 0.2603,
+        "countdown display": 0.2479,
+        "recovery team in field": 0.2542
+      },
+      "aesthetic_score": 6.18,
+      "motion_score": 1.94,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0006",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_092609.mp4",
+      "duration": 54.333,
+      "fps": 30.0,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "parachute descent",
+        "smoke and liftoff",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2416,
+        "ignition and fire": 0.2232,
+        "smoke and liftoff": 0.2512,
+        "rocket ascending into sky": 0.2623,
+        "soldering in lab": 0.1996,
+        "electronics and circuit boards": 0.2119,
+        "team working in workshop": 0.2034,
+        "team celebrating outdoors": 0.2132,
+        "smiling faces and crowd": 0.2035,
+        "parachute descent": 0.255,
+        "blue sky rocket tracking": 0.2785,
+        "van driving on highway": 0.2093,
+        "rocket assembly": 0.2333,
+        "countdown display": 0.2275,
+        "recovery team in field": 0.2293
+      },
+      "aesthetic_score": 6.18,
+      "motion_score": 1.29,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0007",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_093710.mp4",
+      "duration": 48.4,
+      "fps": 30.0,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "parachute descent",
+        "smoke and liftoff",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2591,
+        "ignition and fire": 0.2348,
+        "smoke and liftoff": 0.2788,
+        "rocket ascending into sky": 0.2946,
+        "soldering in lab": 0.1978,
+        "electronics and circuit boards": 0.2042,
+        "team working in workshop": 0.1984,
+        "team celebrating outdoors": 0.2126,
+        "smiling faces and crowd": 0.1991,
+        "parachute descent": 0.2888,
+        "blue sky rocket tracking": 0.3042,
+        "van driving on highway": 0.2128,
+        "rocket assembly": 0.2457,
+        "countdown display": 0.2321,
+        "recovery team in field": 0.2456
+      },
+      "aesthetic_score": 6.15,
+      "motion_score": 1.31,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0008",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_094349.mp4",
+      "duration": 40.767,
+      "fps": 30.0,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "parachute descent",
+        "smoke and liftoff",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2505,
+        "ignition and fire": 0.228,
+        "smoke and liftoff": 0.263,
+        "rocket ascending into sky": 0.2764,
+        "soldering in lab": 0.1972,
+        "electronics and circuit boards": 0.2122,
+        "team working in workshop": 0.1992,
+        "team celebrating outdoors": 0.208,
+        "smiling faces and crowd": 0.196,
+        "parachute descent": 0.2668,
+        "blue sky rocket tracking": 0.2847,
+        "van driving on highway": 0.2169,
+        "rocket assembly": 0.2411,
+        "countdown display": 0.2249,
+        "recovery team in field": 0.2308
+      },
+      "aesthetic_score": 6.15,
+      "motion_score": 2.07,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0009",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_095521.mp4",
+      "duration": 39.466,
+      "fps": 30.001,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "parachute descent",
+        "smoke and liftoff",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2369,
+        "ignition and fire": 0.231,
+        "smoke and liftoff": 0.2616,
+        "rocket ascending into sky": 0.2767,
+        "soldering in lab": 0.2022,
+        "electronics and circuit boards": 0.2149,
+        "team working in workshop": 0.2006,
+        "team celebrating outdoors": 0.2137,
+        "smiling faces and crowd": 0.2141,
+        "parachute descent": 0.2632,
+        "blue sky rocket tracking": 0.2848,
+        "van driving on highway": 0.2077,
+        "rocket assembly": 0.2296,
+        "countdown display": 0.2288,
+        "recovery team in field": 0.224
+      },
+      "aesthetic_score": 6.18,
+      "motion_score": 0.56,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0010",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_100634.mp4",
+      "duration": 271.871,
+      "fps": 30.044,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "smoke and liftoff",
+        "parachute descent",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2774,
+        "ignition and fire": 0.2434,
+        "smoke and liftoff": 0.2874,
+        "rocket ascending into sky": 0.2995,
+        "soldering in lab": 0.2119,
+        "electronics and circuit boards": 0.2099,
+        "team working in workshop": 0.2192,
+        "team celebrating outdoors": 0.2343,
+        "smiling faces and crowd": 0.2087,
+        "parachute descent": 0.2818,
+        "blue sky rocket tracking": 0.315,
+        "van driving on highway": 0.2332,
+        "rocket assembly": 0.2644,
+        "countdown display": 0.2493,
+        "recovery team in field": 0.2533
+      },
+      "aesthetic_score": 6.19,
+      "motion_score": 1.74,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0011",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_102657.mp4",
+      "duration": 58.831,
+      "fps": 30.001,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "parachute descent",
+        "smoke and liftoff",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2699,
+        "ignition and fire": 0.2461,
+        "smoke and liftoff": 0.2738,
+        "rocket ascending into sky": 0.2897,
+        "soldering in lab": 0.2022,
+        "electronics and circuit boards": 0.2053,
+        "team working in workshop": 0.219,
+        "team celebrating outdoors": 0.2315,
+        "smiling faces and crowd": 0.207,
+        "parachute descent": 0.2741,
+        "blue sky rocket tracking": 0.3072,
+        "van driving on highway": 0.211,
+        "rocket assembly": 0.2657,
+        "countdown display": 0.2336,
+        "recovery team in field": 0.2617
+      },
+      "aesthetic_score": 6.12,
+      "motion_score": 2.69,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0012",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_103404.mp4",
+      "duration": 167.249,
+      "fps": 30.057,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "smoke and liftoff",
+        "recovery team in field",
+        "rocket on launch rail",
+        "blue sky rocket tracking",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2697,
+        "ignition and fire": 0.2591,
+        "smoke and liftoff": 0.286,
+        "rocket ascending into sky": 0.25,
+        "soldering in lab": 0.1895,
+        "electronics and circuit boards": 0.1911,
+        "team working in workshop": 0.23,
+        "team celebrating outdoors": 0.2565,
+        "smiling faces and crowd": 0.216,
+        "parachute descent": 0.2596,
+        "blue sky rocket tracking": 0.2667,
+        "van driving on highway": 0.2556,
+        "rocket assembly": 0.2559,
+        "countdown display": 0.2292,
+        "recovery team in field": 0.2698
+      },
+      "aesthetic_score": 6.05,
+      "motion_score": 4.45,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0013",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\20251115_103913.mp4",
+      "duration": 26.258,
+      "fps": 30.01,
+      "resolution": [
+        720,
+        1280
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket on launch rail",
+        "rocket ascending into sky",
+        "smoke and liftoff",
+        "rocket assembly"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2644,
+        "ignition and fire": 0.2291,
+        "smoke and liftoff": 0.2574,
+        "rocket ascending into sky": 0.2576,
+        "soldering in lab": 0.197,
+        "electronics and circuit boards": 0.2034,
+        "team working in workshop": 0.2207,
+        "team celebrating outdoors": 0.2335,
+        "smiling faces and crowd": 0.1859,
+        "parachute descent": 0.2484,
+        "blue sky rocket tracking": 0.2859,
+        "van driving on highway": 0.2074,
+        "rocket assembly": 0.2567,
+        "countdown display": 0.2266,
+        "recovery team in field": 0.2488
+      },
+      "aesthetic_score": 6.1,
+      "motion_score": 3.63,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0014",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3846.MOV",
+      "duration": 88.475,
+      "fps": 29.986,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "team working in workshop",
+        "electronics and circuit boards",
+        "soldering in lab",
+        "smiling faces and crowd",
+        "countdown display"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2022,
+        "ignition and fire": 0.2012,
+        "smoke and liftoff": 0.1914,
+        "rocket ascending into sky": 0.202,
+        "soldering in lab": 0.2344,
+        "electronics and circuit boards": 0.2361,
+        "team working in workshop": 0.2477,
+        "team celebrating outdoors": 0.2005,
+        "smiling faces and crowd": 0.2212,
+        "parachute descent": 0.198,
+        "blue sky rocket tracking": 0.1986,
+        "van driving on highway": 0.151,
+        "rocket assembly": 0.2126,
+        "countdown display": 0.2183,
+        "recovery team in field": 0.2175
+      },
+      "aesthetic_score": 6.09,
+      "motion_score": 7.14,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0015",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3847.MOV",
+      "duration": 106.917,
+      "fps": 29.986,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "team working in workshop",
+        "soldering in lab",
+        "electronics and circuit boards",
+        "recovery team in field",
+        "smiling faces and crowd"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2002,
+        "ignition and fire": 0.1902,
+        "smoke and liftoff": 0.1821,
+        "rocket ascending into sky": 0.1903,
+        "soldering in lab": 0.2378,
+        "electronics and circuit boards": 0.2292,
+        "team working in workshop": 0.2487,
+        "team celebrating outdoors": 0.1976,
+        "smiling faces and crowd": 0.2052,
+        "parachute descent": 0.1881,
+        "blue sky rocket tracking": 0.1848,
+        "van driving on highway": 0.1417,
+        "rocket assembly": 0.2042,
+        "countdown display": 0.2004,
+        "recovery team in field": 0.2206
+      },
+      "aesthetic_score": 6.03,
+      "motion_score": 5.93,
+      "face_score": 0.0,
+      "phase_fit": "outro"
+    },
+    {
+      "clip_id": "clip_0016",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3848.MOV",
+      "duration": 123.788,
+      "fps": 29.987,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "recovery team in field",
+        "parachute descent",
+        "rocket ascending into sky",
+        "rocket assembly",
+        "soldering in lab"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2164,
+        "ignition and fire": 0.2219,
+        "smoke and liftoff": 0.2174,
+        "rocket ascending into sky": 0.2257,
+        "soldering in lab": 0.2251,
+        "electronics and circuit boards": 0.2197,
+        "team working in workshop": 0.224,
+        "team celebrating outdoors": 0.2131,
+        "smiling faces and crowd": 0.2232,
+        "parachute descent": 0.2297,
+        "blue sky rocket tracking": 0.2112,
+        "van driving on highway": 0.176,
+        "rocket assembly": 0.2256,
+        "countdown display": 0.2199,
+        "recovery team in field": 0.2313
+      },
+      "aesthetic_score": 6.19,
+      "motion_score": 3.75,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0017",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3849.MOV",
+      "duration": 82.415,
+      "fps": 29.995,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "rocket on launch rail",
+        "parachute descent",
+        "recovery team in field",
+        "van driving on highway",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2309,
+        "ignition and fire": 0.2046,
+        "smoke and liftoff": 0.2173,
+        "rocket ascending into sky": 0.2079,
+        "soldering in lab": 0.1798,
+        "electronics and circuit boards": 0.19,
+        "team working in workshop": 0.1809,
+        "team celebrating outdoors": 0.1975,
+        "smiling faces and crowd": 0.2085,
+        "parachute descent": 0.227,
+        "blue sky rocket tracking": 0.206,
+        "van driving on highway": 0.2236,
+        "rocket assembly": 0.2019,
+        "countdown display": 0.2167,
+        "recovery team in field": 0.2267
+      },
+      "aesthetic_score": 6.13,
+      "motion_score": 5.99,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0018",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3850.MOV",
+      "duration": 9.535,
+      "fps": 29.995,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "van driving on highway",
+        "recovery team in field",
+        "rocket on launch rail",
+        "ignition and fire",
+        "countdown display"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2292,
+        "ignition and fire": 0.213,
+        "smoke and liftoff": 0.2003,
+        "rocket ascending into sky": 0.1983,
+        "soldering in lab": 0.1758,
+        "electronics and circuit boards": 0.1992,
+        "team working in workshop": 0.2027,
+        "team celebrating outdoors": 0.1957,
+        "smiling faces and crowd": 0.1956,
+        "parachute descent": 0.2096,
+        "blue sky rocket tracking": 0.1904,
+        "van driving on highway": 0.2619,
+        "rocket assembly": 0.2089,
+        "countdown display": 0.2119,
+        "recovery team in field": 0.253
+      },
+      "aesthetic_score": 5.98,
+      "motion_score": 5.17,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0019",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3851.MOV",
+      "duration": 18.168,
+      "fps": 29.997,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "smoke and liftoff",
+        "recovery team in field",
+        "van driving on highway",
+        "ignition and fire",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2326,
+        "ignition and fire": 0.2362,
+        "smoke and liftoff": 0.2505,
+        "rocket ascending into sky": 0.2325,
+        "soldering in lab": 0.2099,
+        "electronics and circuit boards": 0.2232,
+        "team working in workshop": 0.2108,
+        "team celebrating outdoors": 0.202,
+        "smiling faces and crowd": 0.2055,
+        "parachute descent": 0.2315,
+        "blue sky rocket tracking": 0.224,
+        "van driving on highway": 0.2409,
+        "rocket assembly": 0.2278,
+        "countdown display": 0.2215,
+        "recovery team in field": 0.241
+      },
+      "aesthetic_score": 6.18,
+      "motion_score": 3.9,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0020",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3852.MOV",
+      "duration": 30.538,
+      "fps": 29.995,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "recovery team in field",
+        "blue sky rocket tracking",
+        "parachute descent",
+        "team celebrating outdoors",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2111,
+        "ignition and fire": 0.2045,
+        "smoke and liftoff": 0.2132,
+        "rocket ascending into sky": 0.2048,
+        "soldering in lab": 0.1681,
+        "electronics and circuit boards": 0.1917,
+        "team working in workshop": 0.1936,
+        "team celebrating outdoors": 0.2133,
+        "smiling faces and crowd": 0.1832,
+        "parachute descent": 0.2146,
+        "blue sky rocket tracking": 0.2254,
+        "van driving on highway": 0.2009,
+        "rocket assembly": 0.1897,
+        "countdown display": 0.209,
+        "recovery team in field": 0.2388
+      },
+      "aesthetic_score": 6.07,
+      "motion_score": 3.8,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0021",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3853.MOV",
+      "duration": 44.075,
+      "fps": 29.994,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "parachute descent",
+        "recovery team in field",
+        "smoke and liftoff",
+        "rocket on launch rail",
+        "blue sky rocket tracking"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2247,
+        "ignition and fire": 0.213,
+        "smoke and liftoff": 0.2346,
+        "rocket ascending into sky": 0.2175,
+        "soldering in lab": 0.1884,
+        "electronics and circuit boards": 0.2013,
+        "team working in workshop": 0.2012,
+        "team celebrating outdoors": 0.21,
+        "smiling faces and crowd": 0.2061,
+        "parachute descent": 0.2382,
+        "blue sky rocket tracking": 0.2218,
+        "van driving on highway": 0.2016,
+        "rocket assembly": 0.2175,
+        "countdown display": 0.2098,
+        "recovery team in field": 0.2367
+      },
+      "aesthetic_score": 6.17,
+      "motion_score": 6.55,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0022",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3854.MOV",
+      "duration": 28.338,
+      "fps": 29.995,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "recovery team in field",
+        "team celebrating outdoors",
+        "van driving on highway",
+        "rocket on launch rail",
+        "team working in workshop"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2249,
+        "ignition and fire": 0.1931,
+        "smoke and liftoff": 0.1979,
+        "rocket ascending into sky": 0.1904,
+        "soldering in lab": 0.1535,
+        "electronics and circuit boards": 0.1833,
+        "team working in workshop": 0.2211,
+        "team celebrating outdoors": 0.2288,
+        "smiling faces and crowd": 0.2011,
+        "parachute descent": 0.209,
+        "blue sky rocket tracking": 0.2164,
+        "van driving on highway": 0.2261,
+        "rocket assembly": 0.2121,
+        "countdown display": 0.1852,
+        "recovery team in field": 0.254
+      },
+      "aesthetic_score": 5.97,
+      "motion_score": 6.11,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0023",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3855.MOV",
+      "duration": 60.395,
+      "fps": 29.986,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "recovery team in field",
+        "rocket assembly",
+        "van driving on highway",
+        "blue sky rocket tracking",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2209,
+        "ignition and fire": 0.2163,
+        "smoke and liftoff": 0.1988,
+        "rocket ascending into sky": 0.1974,
+        "soldering in lab": 0.1746,
+        "electronics and circuit boards": 0.2002,
+        "team working in workshop": 0.2108,
+        "team celebrating outdoors": 0.2177,
+        "smiling faces and crowd": 0.2012,
+        "parachute descent": 0.2078,
+        "blue sky rocket tracking": 0.221,
+        "van driving on highway": 0.2362,
+        "rocket assembly": 0.2447,
+        "countdown display": 0.2086,
+        "recovery team in field": 0.2648
+      },
+      "aesthetic_score": 6.06,
+      "motion_score": 6.12,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0024",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3856.MOV",
+      "duration": 32.017,
+      "fps": 59.938,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "recovery team in field",
+        "blue sky rocket tracking",
+        "team celebrating outdoors",
+        "rocket on launch rail",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2326,
+        "ignition and fire": 0.2098,
+        "smoke and liftoff": 0.2261,
+        "rocket ascending into sky": 0.218,
+        "soldering in lab": 0.1833,
+        "electronics and circuit boards": 0.1978,
+        "team working in workshop": 0.219,
+        "team celebrating outdoors": 0.2334,
+        "smiling faces and crowd": 0.2143,
+        "parachute descent": 0.23,
+        "blue sky rocket tracking": 0.238,
+        "van driving on highway": 0.2052,
+        "rocket assembly": 0.2265,
+        "countdown display": 0.2087,
+        "recovery team in field": 0.2566
+      },
+      "aesthetic_score": 6.15,
+      "motion_score": 5.29,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0025",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3857.MOV",
+      "duration": 16.702,
+      "fps": 59.934,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "rocket assembly",
+        "soldering in lab",
+        "ignition and fire",
+        "smoke and liftoff",
+        "countdown display"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2186,
+        "ignition and fire": 0.2252,
+        "smoke and liftoff": 0.2247,
+        "rocket ascending into sky": 0.2167,
+        "soldering in lab": 0.2265,
+        "electronics and circuit boards": 0.2203,
+        "team working in workshop": 0.2049,
+        "team celebrating outdoors": 0.1923,
+        "smiling faces and crowd": 0.2123,
+        "parachute descent": 0.2232,
+        "blue sky rocket tracking": 0.2029,
+        "van driving on highway": 0.2084,
+        "rocket assembly": 0.2292,
+        "countdown display": 0.2232,
+        "recovery team in field": 0.2204
+      },
+      "aesthetic_score": 6.17,
+      "motion_score": 3.69,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0026",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3858.MOV",
+      "duration": 19.135,
+      "fps": 59.943,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "rocket assembly",
+        "parachute descent",
+        "smoke and liftoff",
+        "blue sky rocket tracking",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2324,
+        "ignition and fire": 0.2318,
+        "smoke and liftoff": 0.2348,
+        "rocket ascending into sky": 0.2258,
+        "soldering in lab": 0.2174,
+        "electronics and circuit boards": 0.2048,
+        "team working in workshop": 0.1977,
+        "team celebrating outdoors": 0.2088,
+        "smiling faces and crowd": 0.1975,
+        "parachute descent": 0.2389,
+        "blue sky rocket tracking": 0.2335,
+        "van driving on highway": 0.2176,
+        "rocket assembly": 0.2421,
+        "countdown display": 0.2032,
+        "recovery team in field": 0.2283
+      },
+      "aesthetic_score": 6.15,
+      "motion_score": 5.09,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0027",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3859.MOV",
+      "duration": 29.247,
+      "fps": 29.986,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "recovery team in field",
+        "electronics and circuit boards",
+        "rocket assembly",
+        "soldering in lab",
+        "blue sky rocket tracking"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2208,
+        "ignition and fire": 0.2366,
+        "smoke and liftoff": 0.2252,
+        "rocket ascending into sky": 0.2179,
+        "soldering in lab": 0.2394,
+        "electronics and circuit boards": 0.2458,
+        "team working in workshop": 0.234,
+        "team celebrating outdoors": 0.2279,
+        "smiling faces and crowd": 0.2165,
+        "parachute descent": 0.2308,
+        "blue sky rocket tracking": 0.2391,
+        "van driving on highway": 0.2364,
+        "rocket assembly": 0.2397,
+        "countdown display": 0.2131,
+        "recovery team in field": 0.2546
+      },
+      "aesthetic_score": 6.1,
+      "motion_score": 5.04,
+      "face_score": 0.0,
+      "phase_fit": "outro"
+    },
+    {
+      "clip_id": "clip_0028",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3864.MOV",
+      "duration": 206.513,
+      "fps": 29.993,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "rocket on launch rail",
+        "recovery team in field",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2716,
+        "ignition and fire": 0.2523,
+        "smoke and liftoff": 0.2653,
+        "rocket ascending into sky": 0.2745,
+        "soldering in lab": 0.211,
+        "electronics and circuit boards": 0.2257,
+        "team working in workshop": 0.233,
+        "team celebrating outdoors": 0.2372,
+        "smiling faces and crowd": 0.2208,
+        "parachute descent": 0.2687,
+        "blue sky rocket tracking": 0.2888,
+        "van driving on highway": 0.2315,
+        "rocket assembly": 0.2634,
+        "countdown display": 0.2406,
+        "recovery team in field": 0.269
+      },
+      "aesthetic_score": 6.26,
+      "motion_score": 4.41,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0029",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3865.MOV",
+      "duration": 23.705,
+      "fps": 29.994,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "parachute descent",
+        "smoke and liftoff",
+        "rocket on launch rail",
+        "blue sky rocket tracking",
+        "recovery team in field"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2296,
+        "ignition and fire": 0.2069,
+        "smoke and liftoff": 0.2319,
+        "rocket ascending into sky": 0.2206,
+        "soldering in lab": 0.1887,
+        "electronics and circuit boards": 0.2077,
+        "team working in workshop": 0.2037,
+        "team celebrating outdoors": 0.2071,
+        "smiling faces and crowd": 0.2022,
+        "parachute descent": 0.2346,
+        "blue sky rocket tracking": 0.2292,
+        "van driving on highway": 0.2257,
+        "rocket assembly": 0.2207,
+        "countdown display": 0.2078,
+        "recovery team in field": 0.2258
+      },
+      "aesthetic_score": 6.09,
+      "motion_score": 6.58,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0030",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3866.MOV",
+      "duration": 20.37,
+      "fps": 29.995,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "recovery team in field",
+        "rocket assembly",
+        "team working in workshop",
+        "electronics and circuit boards",
+        "soldering in lab"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2216,
+        "ignition and fire": 0.223,
+        "smoke and liftoff": 0.2297,
+        "rocket ascending into sky": 0.2191,
+        "soldering in lab": 0.2348,
+        "electronics and circuit boards": 0.2355,
+        "team working in workshop": 0.2376,
+        "team celebrating outdoors": 0.2167,
+        "smiling faces and crowd": 0.2192,
+        "parachute descent": 0.2229,
+        "blue sky rocket tracking": 0.2271,
+        "van driving on highway": 0.2125,
+        "rocket assembly": 0.2381,
+        "countdown display": 0.2207,
+        "recovery team in field": 0.2421
+      },
+      "aesthetic_score": 6.08,
+      "motion_score": 6.44,
+      "face_score": 0.0,
+      "phase_fit": "outro"
+    },
+    {
+      "clip_id": "clip_0031",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3867.MOV",
+      "duration": 153.097,
+      "fps": 29.988,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "rocket on launch rail",
+        "blue sky rocket tracking",
+        "rocket assembly",
+        "recovery team in field",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2587,
+        "ignition and fire": 0.2384,
+        "smoke and liftoff": 0.248,
+        "rocket ascending into sky": 0.2422,
+        "soldering in lab": 0.207,
+        "electronics and circuit boards": 0.2129,
+        "team working in workshop": 0.2191,
+        "team celebrating outdoors": 0.2311,
+        "smiling faces and crowd": 0.2064,
+        "parachute descent": 0.2491,
+        "blue sky rocket tracking": 0.2562,
+        "van driving on highway": 0.2393,
+        "rocket assembly": 0.2547,
+        "countdown display": 0.2211,
+        "recovery team in field": 0.2511
+      },
+      "aesthetic_score": 6.12,
+      "motion_score": 4.91,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0032",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3868.MOV",
+      "duration": 27.442,
+      "fps": 29.991,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "parachute descent",
+        "rocket ascending into sky",
+        "blue sky rocket tracking",
+        "smoke and liftoff",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2404,
+        "ignition and fire": 0.2286,
+        "smoke and liftoff": 0.241,
+        "rocket ascending into sky": 0.248,
+        "soldering in lab": 0.213,
+        "electronics and circuit boards": 0.2189,
+        "team working in workshop": 0.2153,
+        "team celebrating outdoors": 0.2177,
+        "smiling faces and crowd": 0.22,
+        "parachute descent": 0.2518,
+        "blue sky rocket tracking": 0.2446,
+        "van driving on highway": 0.2285,
+        "rocket assembly": 0.2395,
+        "countdown display": 0.2283,
+        "recovery team in field": 0.2387
+      },
+      "aesthetic_score": 6.23,
+      "motion_score": 5.56,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0033",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3869.MOV",
+      "duration": 14.903,
+      "fps": 29.993,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "rocket assembly",
+        "rocket on launch rail",
+        "parachute descent",
+        "blue sky rocket tracking",
+        "countdown display"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2366,
+        "ignition and fire": 0.2202,
+        "smoke and liftoff": 0.2194,
+        "rocket ascending into sky": 0.2194,
+        "soldering in lab": 0.2119,
+        "electronics and circuit boards": 0.2102,
+        "team working in workshop": 0.2091,
+        "team celebrating outdoors": 0.2,
+        "smiling faces and crowd": 0.19,
+        "parachute descent": 0.2358,
+        "blue sky rocket tracking": 0.2276,
+        "van driving on highway": 0.2213,
+        "rocket assembly": 0.2434,
+        "countdown display": 0.2236,
+        "recovery team in field": 0.2204
+      },
+      "aesthetic_score": 6.1,
+      "motion_score": 5.04,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0034",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3871.MOV",
+      "duration": 77.822,
+      "fps": 29.992,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "parachute descent",
+        "rocket on launch rail",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2584,
+        "ignition and fire": 0.2284,
+        "smoke and liftoff": 0.2576,
+        "rocket ascending into sky": 0.2679,
+        "soldering in lab": 0.197,
+        "electronics and circuit boards": 0.2103,
+        "team working in workshop": 0.2081,
+        "team celebrating outdoors": 0.2222,
+        "smiling faces and crowd": 0.2102,
+        "parachute descent": 0.2601,
+        "blue sky rocket tracking": 0.2784,
+        "van driving on highway": 0.2183,
+        "rocket assembly": 0.2454,
+        "countdown display": 0.2317,
+        "recovery team in field": 0.2386
+      },
+      "aesthetic_score": 6.25,
+      "motion_score": 3.69,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0035",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3872.MOV",
+      "duration": 30.405,
+      "fps": 29.995,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "recovery team in field",
+        "parachute descent",
+        "rocket assembly",
+        "smoke and liftoff",
+        "blue sky rocket tracking"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2355,
+        "ignition and fire": 0.2224,
+        "smoke and liftoff": 0.2439,
+        "rocket ascending into sky": 0.2374,
+        "soldering in lab": 0.1978,
+        "electronics and circuit boards": 0.2093,
+        "team working in workshop": 0.2356,
+        "team celebrating outdoors": 0.2396,
+        "smiling faces and crowd": 0.223,
+        "parachute descent": 0.2571,
+        "blue sky rocket tracking": 0.2425,
+        "van driving on highway": 0.2018,
+        "rocket assembly": 0.2474,
+        "countdown display": 0.2209,
+        "recovery team in field": 0.2585
+      },
+      "aesthetic_score": 6.26,
+      "motion_score": 5.63,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0036",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3873.MOV",
+      "duration": 41.975,
+      "fps": 29.994,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "rocket assembly",
+        "parachute descent",
+        "rocket on launch rail",
+        "blue sky rocket tracking",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2384,
+        "ignition and fire": 0.2208,
+        "smoke and liftoff": 0.2313,
+        "rocket ascending into sky": 0.231,
+        "soldering in lab": 0.2,
+        "electronics and circuit boards": 0.2068,
+        "team working in workshop": 0.2122,
+        "team celebrating outdoors": 0.2132,
+        "smiling faces and crowd": 0.2093,
+        "parachute descent": 0.2402,
+        "blue sky rocket tracking": 0.2338,
+        "van driving on highway": 0.2052,
+        "rocket assembly": 0.2442,
+        "countdown display": 0.2162,
+        "recovery team in field": 0.2184
+      },
+      "aesthetic_score": 6.14,
+      "motion_score": 6.91,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0037",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3874.MOV",
+      "duration": 64.412,
+      "fps": 29.995,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket ascending into sky",
+        "smoke and liftoff",
+        "parachute descent",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2575,
+        "ignition and fire": 0.2379,
+        "smoke and liftoff": 0.269,
+        "rocket ascending into sky": 0.2712,
+        "soldering in lab": 0.2003,
+        "electronics and circuit boards": 0.2104,
+        "team working in workshop": 0.2101,
+        "team celebrating outdoors": 0.2248,
+        "smiling faces and crowd": 0.2095,
+        "parachute descent": 0.2657,
+        "blue sky rocket tracking": 0.2807,
+        "van driving on highway": 0.2265,
+        "rocket assembly": 0.242,
+        "countdown display": 0.2331,
+        "recovery team in field": 0.2428
+      },
+      "aesthetic_score": 6.26,
+      "motion_score": 3.2,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0038",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3875.MOV",
+      "duration": 38.04,
+      "fps": 29.995,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "recovery team in field",
+        "parachute descent",
+        "smoke and liftoff",
+        "team celebrating outdoors",
+        "rocket assembly"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2391,
+        "ignition and fire": 0.2241,
+        "smoke and liftoff": 0.2505,
+        "rocket ascending into sky": 0.2357,
+        "soldering in lab": 0.1903,
+        "electronics and circuit boards": 0.1931,
+        "team working in workshop": 0.2189,
+        "team celebrating outdoors": 0.2436,
+        "smiling faces and crowd": 0.2072,
+        "parachute descent": 0.2514,
+        "blue sky rocket tracking": 0.2381,
+        "van driving on highway": 0.201,
+        "rocket assembly": 0.2435,
+        "countdown display": 0.2196,
+        "recovery team in field": 0.2534
+      },
+      "aesthetic_score": 6.22,
+      "motion_score": 6.07,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0039",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3876.MOV",
+      "duration": 20.937,
+      "fps": 29.995,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "soldering in lab",
+        "electronics and circuit boards",
+        "rocket assembly",
+        "team working in workshop",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2115,
+        "ignition and fire": 0.2211,
+        "smoke and liftoff": 0.2261,
+        "rocket ascending into sky": 0.2123,
+        "soldering in lab": 0.2605,
+        "electronics and circuit boards": 0.2514,
+        "team working in workshop": 0.2273,
+        "team celebrating outdoors": 0.1895,
+        "smiling faces and crowd": 0.1903,
+        "parachute descent": 0.2115,
+        "blue sky rocket tracking": 0.2145,
+        "van driving on highway": 0.1663,
+        "rocket assembly": 0.2372,
+        "countdown display": 0.2169,
+        "recovery team in field": 0.2189
+      },
+      "aesthetic_score": 6.07,
+      "motion_score": 6.39,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0040",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3878.MOV",
+      "duration": 125.593,
+      "fps": 29.994,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "parachute descent",
+        "rocket ascending into sky",
+        "rocket on launch rail",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2538,
+        "ignition and fire": 0.2242,
+        "smoke and liftoff": 0.2538,
+        "rocket ascending into sky": 0.255,
+        "soldering in lab": 0.1944,
+        "electronics and circuit boards": 0.2039,
+        "team working in workshop": 0.2185,
+        "team celebrating outdoors": 0.2249,
+        "smiling faces and crowd": 0.2027,
+        "parachute descent": 0.2615,
+        "blue sky rocket tracking": 0.2696,
+        "van driving on highway": 0.2187,
+        "rocket assembly": 0.2439,
+        "countdown display": 0.2252,
+        "recovery team in field": 0.2409
+      },
+      "aesthetic_score": 6.21,
+      "motion_score": 7.09,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0041",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3879.MOV",
+      "duration": 38.882,
+      "fps": 29.988,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "parachute descent",
+        "rocket assembly",
+        "rocket ascending into sky",
+        "recovery team in field",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2388,
+        "ignition and fire": 0.2261,
+        "smoke and liftoff": 0.2441,
+        "rocket ascending into sky": 0.2486,
+        "soldering in lab": 0.2007,
+        "electronics and circuit boards": 0.2049,
+        "team working in workshop": 0.2109,
+        "team celebrating outdoors": 0.2234,
+        "smiling faces and crowd": 0.2116,
+        "parachute descent": 0.2621,
+        "blue sky rocket tracking": 0.2431,
+        "van driving on highway": 0.2144,
+        "rocket assembly": 0.2519,
+        "countdown display": 0.2177,
+        "recovery team in field": 0.2463
+      },
+      "aesthetic_score": 6.14,
+      "motion_score": 5.07,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0042",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3880.MOV",
+      "duration": 271.112,
+      "fps": 29.988,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "rocket on launch rail",
+        "blue sky rocket tracking",
+        "rocket assembly",
+        "recovery team in field",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2573,
+        "ignition and fire": 0.2182,
+        "smoke and liftoff": 0.2339,
+        "rocket ascending into sky": 0.226,
+        "soldering in lab": 0.189,
+        "electronics and circuit boards": 0.1996,
+        "team working in workshop": 0.2198,
+        "team celebrating outdoors": 0.2158,
+        "smiling faces and crowd": 0.1854,
+        "parachute descent": 0.2385,
+        "blue sky rocket tracking": 0.2568,
+        "van driving on highway": 0.2041,
+        "rocket assembly": 0.2438,
+        "countdown display": 0.1947,
+        "recovery team in field": 0.2404
+      },
+      "aesthetic_score": 6.11,
+      "motion_score": 5.69,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0043",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3881.MOV",
+      "duration": 75.513,
+      "fps": 29.995,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "parachute descent",
+        "rocket ascending into sky",
+        "smoke and liftoff",
+        "rocket on launch rail"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2533,
+        "ignition and fire": 0.2348,
+        "smoke and liftoff": 0.2612,
+        "rocket ascending into sky": 0.2643,
+        "soldering in lab": 0.1919,
+        "electronics and circuit boards": 0.2029,
+        "team working in workshop": 0.2106,
+        "team celebrating outdoors": 0.2254,
+        "smiling faces and crowd": 0.2103,
+        "parachute descent": 0.2652,
+        "blue sky rocket tracking": 0.2802,
+        "van driving on highway": 0.2129,
+        "rocket assembly": 0.2398,
+        "countdown display": 0.2316,
+        "recovery team in field": 0.2436
+      },
+      "aesthetic_score": 6.25,
+      "motion_score": 2.69,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0044",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3882.MOV",
+      "duration": 22.94,
+      "fps": 29.991,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "smoke and liftoff",
+        "parachute descent",
+        "recovery team in field",
+        "rocket ascending into sky"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.261,
+        "ignition and fire": 0.2373,
+        "smoke and liftoff": 0.2749,
+        "rocket ascending into sky": 0.2635,
+        "soldering in lab": 0.1901,
+        "electronics and circuit boards": 0.2038,
+        "team working in workshop": 0.219,
+        "team celebrating outdoors": 0.2487,
+        "smiling faces and crowd": 0.2188,
+        "parachute descent": 0.2727,
+        "blue sky rocket tracking": 0.2786,
+        "van driving on highway": 0.2228,
+        "rocket assembly": 0.2481,
+        "countdown display": 0.2276,
+        "recovery team in field": 0.2692
+      },
+      "aesthetic_score": 6.24,
+      "motion_score": 4.71,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0045",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3883.MOV",
+      "duration": 87.583,
+      "fps": 29.994,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "recovery team in field",
+        "parachute descent",
+        "rocket on launch rail",
+        "rocket assembly",
+        "blue sky rocket tracking"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2387,
+        "ignition and fire": 0.2245,
+        "smoke and liftoff": 0.2354,
+        "rocket ascending into sky": 0.225,
+        "soldering in lab": 0.216,
+        "electronics and circuit boards": 0.2223,
+        "team working in workshop": 0.2279,
+        "team celebrating outdoors": 0.2324,
+        "smiling faces and crowd": 0.2255,
+        "parachute descent": 0.2477,
+        "blue sky rocket tracking": 0.2362,
+        "van driving on highway": 0.2186,
+        "rocket assembly": 0.2376,
+        "countdown display": 0.2182,
+        "recovery team in field": 0.2553
+      },
+      "aesthetic_score": 6.11,
+      "motion_score": 5.7,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0046",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3884.MOV",
+      "duration": 31.407,
+      "fps": 29.994,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "recovery team in field",
+        "smiling faces and crowd",
+        "parachute descent",
+        "smoke and liftoff",
+        "rocket assembly"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2294,
+        "ignition and fire": 0.2207,
+        "smoke and liftoff": 0.2328,
+        "rocket ascending into sky": 0.217,
+        "soldering in lab": 0.1932,
+        "electronics and circuit boards": 0.2199,
+        "team working in workshop": 0.2273,
+        "team celebrating outdoors": 0.2266,
+        "smiling faces and crowd": 0.2365,
+        "parachute descent": 0.2329,
+        "blue sky rocket tracking": 0.2297,
+        "van driving on highway": 0.1868,
+        "rocket assembly": 0.2302,
+        "countdown display": 0.2227,
+        "recovery team in field": 0.2437
+      },
+      "aesthetic_score": 6.1,
+      "motion_score": 5.0,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0047",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3886.MOV",
+      "duration": 29.972,
+      "fps": 29.995,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "smoke and liftoff",
+        "recovery team in field",
+        "blue sky rocket tracking",
+        "rocket assembly",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2328,
+        "ignition and fire": 0.2334,
+        "smoke and liftoff": 0.2464,
+        "rocket ascending into sky": 0.2296,
+        "soldering in lab": 0.1922,
+        "electronics and circuit boards": 0.2048,
+        "team working in workshop": 0.2108,
+        "team celebrating outdoors": 0.2167,
+        "smiling faces and crowd": 0.2141,
+        "parachute descent": 0.2336,
+        "blue sky rocket tracking": 0.2373,
+        "van driving on highway": 0.2046,
+        "rocket assembly": 0.2354,
+        "countdown display": 0.2099,
+        "recovery team in field": 0.2387
+      },
+      "aesthetic_score": 6.12,
+      "motion_score": 4.99,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0048",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3887.MOV",
+      "duration": 70.413,
+      "fps": 29.994,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "rocket assembly",
+        "soldering in lab",
+        "blue sky rocket tracking",
+        "rocket on launch rail",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2422,
+        "ignition and fire": 0.2334,
+        "smoke and liftoff": 0.2386,
+        "rocket ascending into sky": 0.2302,
+        "soldering in lab": 0.2488,
+        "electronics and circuit boards": 0.2228,
+        "team working in workshop": 0.2092,
+        "team celebrating outdoors": 0.1961,
+        "smiling faces and crowd": 0.1881,
+        "parachute descent": 0.2363,
+        "blue sky rocket tracking": 0.2431,
+        "van driving on highway": 0.2178,
+        "rocket assembly": 0.2666,
+        "countdown display": 0.213,
+        "recovery team in field": 0.2163
+      },
+      "aesthetic_score": 6.09,
+      "motion_score": 6.0,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0049",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3889.MOV",
+      "duration": 70.282,
+      "fps": 29.994,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "recovery team in field",
+        "rocket on launch rail",
+        "blue sky rocket tracking",
+        "smoke and liftoff",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2421,
+        "ignition and fire": 0.2192,
+        "smoke and liftoff": 0.2284,
+        "rocket ascending into sky": 0.213,
+        "soldering in lab": 0.179,
+        "electronics and circuit boards": 0.1957,
+        "team working in workshop": 0.2023,
+        "team celebrating outdoors": 0.2131,
+        "smiling faces and crowd": 0.197,
+        "parachute descent": 0.228,
+        "blue sky rocket tracking": 0.242,
+        "van driving on highway": 0.2126,
+        "rocket assembly": 0.2253,
+        "countdown display": 0.2133,
+        "recovery team in field": 0.2435
+      },
+      "aesthetic_score": 6.14,
+      "motion_score": 5.2,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0050",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3894.MOV",
+      "duration": 50.71,
+      "fps": 29.994,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "rocket on launch rail",
+        "recovery team in field",
+        "blue sky rocket tracking",
+        "smoke and liftoff",
+        "parachute descent"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2438,
+        "ignition and fire": 0.2293,
+        "smoke and liftoff": 0.241,
+        "rocket ascending into sky": 0.2207,
+        "soldering in lab": 0.1901,
+        "electronics and circuit boards": 0.2001,
+        "team working in workshop": 0.2058,
+        "team celebrating outdoors": 0.2165,
+        "smiling faces and crowd": 0.1945,
+        "parachute descent": 0.2382,
+        "blue sky rocket tracking": 0.2418,
+        "van driving on highway": 0.2284,
+        "rocket assembly": 0.233,
+        "countdown display": 0.2123,
+        "recovery team in field": 0.2426
+      },
+      "aesthetic_score": 6.12,
+      "motion_score": 6.35,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0051",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3895.MOV",
+      "duration": 17.303,
+      "fps": 29.994,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "blue sky rocket tracking",
+        "rocket on launch rail",
+        "rocket assembly",
+        "recovery team in field",
+        "team celebrating outdoors"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2588,
+        "ignition and fire": 0.2286,
+        "smoke and liftoff": 0.2377,
+        "rocket ascending into sky": 0.2484,
+        "soldering in lab": 0.1959,
+        "electronics and circuit boards": 0.2104,
+        "team working in workshop": 0.2086,
+        "team celebrating outdoors": 0.2488,
+        "smiling faces and crowd": 0.2315,
+        "parachute descent": 0.2362,
+        "blue sky rocket tracking": 0.2653,
+        "van driving on highway": 0.2018,
+        "rocket assembly": 0.2518,
+        "countdown display": 0.2316,
+        "recovery team in field": 0.2517
+      },
+      "aesthetic_score": 6.2,
+      "motion_score": 4.06,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0052",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3896.MOV",
+      "duration": 109.965,
+      "fps": 29.991,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "rocket on launch rail",
+        "blue sky rocket tracking",
+        "parachute descent",
+        "smoke and liftoff",
+        "rocket assembly"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2784,
+        "ignition and fire": 0.2509,
+        "smoke and liftoff": 0.2584,
+        "rocket ascending into sky": 0.255,
+        "soldering in lab": 0.2101,
+        "electronics and circuit boards": 0.2144,
+        "team working in workshop": 0.2116,
+        "team celebrating outdoors": 0.22,
+        "smiling faces and crowd": 0.199,
+        "parachute descent": 0.2615,
+        "blue sky rocket tracking": 0.2712,
+        "van driving on highway": 0.2362,
+        "rocket assembly": 0.2574,
+        "countdown display": 0.2299,
+        "recovery team in field": 0.24
+      },
+      "aesthetic_score": 6.07,
+      "motion_score": 6.23,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0053",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3898.MOV",
+      "duration": 18.67,
+      "fps": 29.995,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "recovery team in field",
+        "blue sky rocket tracking",
+        "rocket on launch rail",
+        "parachute descent",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2509,
+        "ignition and fire": 0.2207,
+        "smoke and liftoff": 0.2398,
+        "rocket ascending into sky": 0.225,
+        "soldering in lab": 0.1866,
+        "electronics and circuit boards": 0.2039,
+        "team working in workshop": 0.2137,
+        "team celebrating outdoors": 0.2222,
+        "smiling faces and crowd": 0.1965,
+        "parachute descent": 0.2447,
+        "blue sky rocket tracking": 0.2523,
+        "van driving on highway": 0.2235,
+        "rocket assembly": 0.2315,
+        "countdown display": 0.214,
+        "recovery team in field": 0.2532
+      },
+      "aesthetic_score": 6.14,
+      "motion_score": 6.19,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0054",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3899.MOV",
+      "duration": 16.378,
+      "fps": 29.979,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "recovery team in field",
+        "van driving on highway",
+        "rocket assembly",
+        "rocket on launch rail",
+        "team working in workshop"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2237,
+        "ignition and fire": 0.2185,
+        "smoke and liftoff": 0.2192,
+        "rocket ascending into sky": 0.2033,
+        "soldering in lab": 0.1838,
+        "electronics and circuit boards": 0.2007,
+        "team working in workshop": 0.2218,
+        "team celebrating outdoors": 0.2083,
+        "smiling faces and crowd": 0.2066,
+        "parachute descent": 0.2126,
+        "blue sky rocket tracking": 0.2095,
+        "van driving on highway": 0.2476,
+        "rocket assembly": 0.2245,
+        "countdown display": 0.202,
+        "recovery team in field": 0.2551
+      },
+      "aesthetic_score": 6.05,
+      "motion_score": 5.22,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0055",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3900.MOV",
+      "duration": 14.003,
+      "fps": 29.993,
+      "resolution": [
+        1080,
+        1920
+      ],
+      "tags": [
+        "rocket assembly",
+        "recovery team in field",
+        "parachute descent",
+        "van driving on highway",
+        "smoke and liftoff"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2238,
+        "ignition and fire": 0.2233,
+        "smoke and liftoff": 0.2271,
+        "rocket ascending into sky": 0.2201,
+        "soldering in lab": 0.1999,
+        "electronics and circuit boards": 0.2102,
+        "team working in workshop": 0.214,
+        "team celebrating outdoors": 0.2205,
+        "smiling faces and crowd": 0.2223,
+        "parachute descent": 0.2372,
+        "blue sky rocket tracking": 0.2132,
+        "van driving on highway": 0.2287,
+        "rocket assembly": 0.2426,
+        "countdown display": 0.2181,
+        "recovery team in field": 0.2393
+      },
+      "aesthetic_score": 6.11,
+      "motion_score": 5.43,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    },
+    {
+      "clip_id": "clip_0056",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3901.MOV",
+      "duration": 321.463,
+      "fps": 28.968,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "recovery team in field",
+        "team celebrating outdoors",
+        "rocket on launch rail",
+        "rocket assembly",
+        "team working in workshop"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2309,
+        "ignition and fire": 0.2105,
+        "smoke and liftoff": 0.2079,
+        "rocket ascending into sky": 0.1965,
+        "soldering in lab": 0.1589,
+        "electronics and circuit boards": 0.1952,
+        "team working in workshop": 0.2155,
+        "team celebrating outdoors": 0.238,
+        "smiling faces and crowd": 0.2145,
+        "parachute descent": 0.2134,
+        "blue sky rocket tracking": 0.2146,
+        "van driving on highway": 0.2027,
+        "rocket assembly": 0.2219,
+        "countdown display": 0.1964,
+        "recovery team in field": 0.2486
+      },
+      "aesthetic_score": 5.97,
+      "motion_score": 6.3,
+      "face_score": 0.0,
+      "phase_fit": "buildup"
+    },
+    {
+      "clip_id": "clip_0057",
+      "path": "C:\\Users\\terrw\\StudioProjects\\Video-editor\\footage\\IMG_3902.MOV",
+      "duration": 14.037,
+      "fps": 29.993,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "tags": [
+        "van driving on highway",
+        "rocket on launch rail",
+        "recovery team in field",
+        "parachute descent",
+        "ignition and fire"
+      ],
+      "tag_scores": {
+        "rocket on launch rail": 0.2242,
+        "ignition and fire": 0.2104,
+        "smoke and liftoff": 0.2099,
+        "rocket ascending into sky": 0.2048,
+        "soldering in lab": 0.1775,
+        "electronics and circuit boards": 0.1955,
+        "team working in workshop": 0.1882,
+        "team celebrating outdoors": 0.1822,
+        "smiling faces and crowd": 0.1913,
+        "parachute descent": 0.2145,
+        "blue sky rocket tracking": 0.1941,
+        "van driving on highway": 0.2499,
+        "rocket assembly": 0.2055,
+        "countdown display": 0.1945,
+        "recovery team in field": 0.2219
+      },
+      "aesthetic_score": 6.06,
+      "motion_score": 3.18,
+      "face_score": 0.0,
+      "phase_fit": "drop"
+    }
+  ]
+}
